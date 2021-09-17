@@ -1,0 +1,7 @@
+Employee ID:C6K
+Employee Name     :Chinmay
+Father's Name     :Kukade
+Employee Contact  :9876543210
+Email Information :chinmkay.kukade@intellectdesign.com
+Employee position :Angular Developer
+Employee Salary   :26000
